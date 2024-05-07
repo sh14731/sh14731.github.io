@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #fff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #eee;
+}
+
+.profile-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.bio, .resume-download, footer {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background: #222;
+    color: #fff;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+a {
+    color: #06c;
+    text-decoration: none;
+}
